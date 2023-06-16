@@ -1,6 +1,7 @@
 # Gerador de Senhas Aleatórias
 
 Um projeto simples para gerar senhas aleatórias.
+Ele está disponível em https://gerador-de-senhas-weld.vercel.app/
 
 ## Funcionalidades
 
@@ -14,7 +15,6 @@ Um projeto simples para gerar senhas aleatórias.
 3. Acesse o diretório do projeto via terminal.
 4. Execute o seguinte comando para instalar as dependências: npm install
 5. Após a instalação, execute o seguinte comando para iniciar o servidor de desenvolvimento: npm run dev
-
 6. Abra o navegador e acesse `http://localhost:5173`.
 
 ## Uso
@@ -31,6 +31,3 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correç
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-
-
