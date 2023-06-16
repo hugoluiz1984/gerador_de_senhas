@@ -1,7 +1,7 @@
 # Gerador de Senhas Aleatórias
 
 Um projeto simples para gerar senhas aleatórias.
-Ele está disponível em https://gerador-de-senhas-weld.vercel.app/
+Está disponível em https://gerador-de-senhas-weld.vercel.app/
 
 ## Funcionalidades
 
